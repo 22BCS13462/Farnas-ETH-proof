@@ -11,7 +11,7 @@ To test this contract you can either just copy and paste it in remix ide or test
 To set it up locally start by clonning the repository
 
 ```sh
-git clone https://github.com/22BCS13462/eth-proof-code-for-metacraft.git
+git clone https://github.com/22BCS13462/Farnas-ETH-proof.git
 ```
 
 now for compilling the contract use solc.js and to install solc use
